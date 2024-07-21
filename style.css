@@ -1,3 +1,9 @@
+body 
+{
+      background-image: url('https://t4.ftcdn.net/jpg/03/27/22/31/360_F_327223167_6s3RXZaysJMMi0AI54z3I4ojBEhhfTdc.jpg');
+}
+
+
 .container{
   display: flex;
 }
