@@ -1,0 +1,62 @@
+.container{
+  display: flex;
+}
+
+.grid {
+  width: 200px;
+  height: 400px;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: black;
+  border: 10px solid;
+  border-color: gray;
+  margin-left: 600px;
+}
+
+.grid div {
+  height: 20px;
+  width: 20px;
+}
+
+.title {
+  background-color: lightblue;
+  width: 215px;
+  font-family: sans-serif;
+  font-size: 40px;
+  text-align: center;
+  margin: auto;
+}
+
+/* .level-show{
+  background-color: lightblue;
+  width: 160px;
+  font-family: sans-serif;
+  font-size: 25px;
+  text-align: center;
+  margin: auto;
+} */
+
+.score-show {
+  background-color: lightblue;
+  width: 160px;
+  font-family: sans-serif;
+  font-size: 25px;
+  text-align: center;
+  margin: auto;
+}
+
+.mini-grid {
+  margin-left: 50px;
+  width: 80px;
+  height: 80px;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: black;
+  border: 10px solid;
+  border-color: gray;
+}
+
+.mini-grid div {
+  width: 20px;
+  height: 20px;
+}
